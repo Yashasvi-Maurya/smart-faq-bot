@@ -26,7 +26,6 @@ It matches user questios with stored FAQs using keyword similarity and provides 
 
 ## Project Stucture
 
-'''
 
 Smart-faq-bot/
 |
@@ -38,8 +37,6 @@ Smart-faq-bot/
 |
 |-----README.md
 |
-
-'''
 
 
 
